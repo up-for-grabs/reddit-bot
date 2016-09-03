@@ -1,1 +1,1 @@
-# reddit-bot
+# Reddit autopost for up-for-grabs > /r/RespositoryRequest
